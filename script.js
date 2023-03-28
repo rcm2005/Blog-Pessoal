@@ -61,3 +61,5 @@ if(numero > 10){
 }else{
      document.write("é menor")
 }
+
+//&&, ||,
