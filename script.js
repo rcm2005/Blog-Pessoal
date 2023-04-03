@@ -63,3 +63,39 @@ if(numero > 10){
 }
 
 //&&, ||,
+
+//adicionando a estrutura de swich semelhante ao matchcase do pyhton
+
+document.write("<br>")
+
+let entrada = parseInt(prompt("Digite uma opção: "))
+
+switch(entrada){
+     case 1: 
+          document.write("primeira opçao")
+          break;
+     case 2:
+          document.write ("segunda opção")
+          break;
+     case 2:
+          document.write ("terceira opção")
+          break;
+     case 3:
+          document.write ("quarta opção")
+          break;
+     case 4:
+          document.write ("quinta opção")
+          break;
+     default:
+          document.write("nenhuma das opções válidas")
+          break;
+}
+
+
+
+//&&, ||,
+
+
+
+
+
