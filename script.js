@@ -101,8 +101,8 @@ for (let i=0; i < 10; i++){
      document.write(i);//  document.write("O Valor i vai até: " , i);
     document.write ("<br>")
 }
-<div id = "main">
-     <input type = "button" class = "cor1" value = "" onmouseover= "trocar("
+
+
 
 
 
